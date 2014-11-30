@@ -3,7 +3,7 @@ Geolastic
 
 Import data from a geonames' file to an Elasticsearch server.
 
-[See example of files here:] (http://download.geonames.org/export/dump).
+[See example of files here.] (http://download.geonames.org/export/dump).
 
 Install
 ---------
